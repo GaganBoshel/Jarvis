@@ -1,0 +1,11 @@
+{
+  "name": "JARVIS AI v2",
+  "description": "Futuristic Iron Man-inspired AI assistant with voice interaction, Gemini AI intelligence, HUD graphics, webcam analysis, and multi-tool workspace.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
